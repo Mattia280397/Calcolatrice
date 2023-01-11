@@ -9,6 +9,7 @@ public class Main {
 		CalcClass.Prodotto(n1,n2);
 		CalcClass.Quoziente(n1,n2);
 		CalcClass.Potenza(n1,n2);
+		CalcClass.Media(n1,n2);
 	}
 	
 }
